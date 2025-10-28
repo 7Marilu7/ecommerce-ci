@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-ci",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests defined\" && exit 0",
+    "build": "echo \"No build defined\"",
+    "test:unit": "echo \"No unit tests\"",
+    "test:integration": "echo \"No integration tests\""
+  }
+}
